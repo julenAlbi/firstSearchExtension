@@ -15,15 +15,6 @@
             "js": ["content.js"]
         }
     ],
-    "commands": {
-        "open-first-result": {
-            "suggested_key": {
-                "default": "Ctrl+A",
-                "mac": "Command+A"
-            },
-            "description": "Open the first Google search result"
-        }
-    },
 	"omnibox": {
         "keyword": "fs"
     }
